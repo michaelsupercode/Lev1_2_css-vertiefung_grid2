@@ -5,12 +5,12 @@
 }
 .Lev2 {
   display: grid;
-  width: 40%;
-  height: 30vh;
-  margin: 0 auto;
+  width: 60vw;
+  height: 40vh;
+  margin: 10rem auto;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  gap: .8rem;
+  gap: .4rem;
 }
 .n-block1 {
   background: red;
